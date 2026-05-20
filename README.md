@@ -17,35 +17,96 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 
 <br/>
 
-<!-- ━━━ ADVANCED ━━━ -->
 <div align="center">
-  <a href="https://github.com/rajdeepkumar200/medical-llm-clinical-qa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=medical-llm-clinical-qa&bg_color=1a0000&title_color=ff6b6b&border_color=ff4444&icon_color=ff4444&text_color=ffaaaa" width="500"/>
-  </a>
-</div>
+
+<!-- ██ ADVANCED ██ -->
+<table cellpadding="20" width="540">
+<tr><td align="center" bgcolor="#1a0005">
+<a href="https://github.com/rajdeepkumar200/medical-llm-clinical-qa">
+<img src="https://img.shields.io/badge/Medical_LLM_Clinical_QA-ADVANCED-FF4444?style=for-the-badge&labelColor=7F0000" width="460"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_%7C_NLP_%7C_Healthcare_AI-FF6B6B?style=flat-square"/>
+<br/><br/>
+<sub><b>Fine-tuned LLM for medical question answering & clinical diagnosis support</b></sub>
+</td></tr>
+</table>
 
 <br/>
 
-<!-- ━━━ INTERMEDIATE ━━━ -->
-<div align="center">
-  <a href="https://github.com/rajdeepkumar200/Text-to-Image-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=Text-to-Image-generator&bg_color=12002a&title_color=d8b4fe&border_color=a855f7&icon_color=c084fc&text_color=e9d5ff" width="310"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rajdeepkumar200/gesture_os_control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=gesture_os_control&bg_color=001020&title_color=93c5fd&border_color=3b82f6&icon_color=60a5fa&text_color=bfdbfe" width="310"/>
-  </a>
-</div>
+<!-- ██ INTERMEDIATE ██ -->
+<table cellpadding="0" cellspacing="10" width="100%">
+<tr>
+<td align="center">
+<table cellpadding="18" width="360">
+<tr><td align="center" bgcolor="#0d0020">
+<a href="https://github.com/rajdeepkumar200/Text-to-Image-generator">
+<img src="https://img.shields.io/badge/Text_to_Image_Generator-INTERMEDIATE+-A855F7?style=for-the-badge&labelColor=4A1B8C" width="300"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative_AI-A855F7?style=flat-square"/>
+<br/><br/>
+<sub><b>AI image synthesis from text prompts using diffusion models</b></sub>
+</td></tr>
+</table>
+</td>
+<td align="center">
+<table cellpadding="18" width="360">
+<tr><td align="center" bgcolor="#000d20">
+<a href="https://github.com/rajdeepkumar200/gesture_os_control">
+<img src="https://img.shields.io/badge/Gesture_OS_Control-INTERMEDIATE-3B82F6?style=for-the-badge&labelColor=1E3A8A" width="300"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square"/>
+<br/><br/>
+<sub><b>Control your OS with real-time hand gestures via webcam</b></sub>
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ━━━ BEGINNER ━━━ -->
-<div align="center">
-  <a href="https://github.com/rajdeepkumar200/Movie-recommendation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=Movie-recommendation-system&bg_color=001412&title_color=5eead4&border_color=14b8a6&icon_color=2dd4bf&text_color=99f6e4" width="270"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/rajdeepkumar200/Daily-Habit-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=Daily-Habit-Tracker&bg_color=001408&title_color=86efac&border_color=22c55e&icon_color=4ade80&text_color=bbf7d0" width="270"/>
-  </a>
+<!-- ██ BEGINNER ██ -->
+<table cellpadding="0" cellspacing="10" width="100%">
+<tr>
+<td align="center">
+<table cellpadding="16" width="310">
+<tr><td align="center" bgcolor="#001410">
+<a href="https://github.com/rajdeepkumar200/Movie-recommendation-system">
+<img src="https://img.shields.io/badge/Movie_Recommendation-BEGINNER+-14B8A6?style=for-the-badge&labelColor=0F766E" width="260"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<br/><br/>
+<sub><b>Personalized movie recommendations using ML</b></sub>
+</td></tr>
+</table>
+</td>
+<td align="center">
+<table cellpadding="16" width="310">
+<tr><td align="center" bgcolor="#001408">
+<a href="https://github.com/rajdeepkumar200/Daily-Habit-Tracker">
+<img src="https://img.shields.io/badge/Daily_Habit_Tracker-BEGINNER-22C55E?style=for-the-badge&labelColor=14532D" width="260"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<br/><br/>
+<sub><b>Simple habit tracking web application</b></sub>
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
+
 </div>
