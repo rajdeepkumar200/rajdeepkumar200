@@ -22,8 +22,12 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 <!-- ██ ADVANCED ██ -->
 <table cellpadding="20" width="540">
 <tr><td align="center" bgcolor="#1a0005">
+<img src="https://img.shields.io/badge/ADVANCED-FF4444?style=flat-square&labelColor=7F0000"/>
+<br/>
+<img src="https://img.shields.io/badge/medical--llm--clinical--qa-rajdeepkumar200-FF4444?style=for-the-badge&labelColor=2a0008&logo=github&logoColor=FF4444" width="460"/>
+<br/><br/>
 <a href="https://github.com/rajdeepkumar200/medical-llm-clinical-qa">
-<img src="https://img.shields.io/badge/Medical_LLM_Clinical_QA-ADVANCED-FF4444?style=for-the-badge&labelColor=7F0000" width="460"/>
+<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-FF4444?style=flat-square"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -37,14 +41,18 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 
 <br/>
 
-<!-- ██ INTERMEDIATE ██ -->
-<table cellpadding="0" cellspacing="10" width="100%">
+<!-- ██ INTERMEDIATE (3 cards) ██ -->
+<table cellpadding="0" cellspacing="8" width="100%">
 <tr>
-<td align="center">
-<table cellpadding="18" width="360">
+<td align="center" width="33%">
+<table cellpadding="16" width="100%">
 <tr><td align="center" bgcolor="#0d0020">
+<img src="https://img.shields.io/badge/INTERMEDIATE+-A855F7?style=flat-square&labelColor=4A1B8C"/>
+<br/>
+<img src="https://img.shields.io/badge/Text--to--Image--generator-rajdeepkumar200-A855F7?style=for-the-badge&labelColor=1a0035&logo=github&logoColor=A855F7" width="260"/>
+<br/><br/>
 <a href="https://github.com/rajdeepkumar200/Text-to-Image-generator">
-<img src="https://img.shields.io/badge/Text_to_Image_Generator-INTERMEDIATE+-A855F7?style=for-the-badge&labelColor=4A1B8C" width="300"/>
+<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-A855F7?style=flat-square"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -55,11 +63,15 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 </td></tr>
 </table>
 </td>
-<td align="center">
-<table cellpadding="18" width="360">
+<td align="center" width="33%">
+<table cellpadding="16" width="100%">
 <tr><td align="center" bgcolor="#000d20">
+<img src="https://img.shields.io/badge/INTERMEDIATE-3B82F6?style=flat-square&labelColor=1E3A8A"/>
+<br/>
+<img src="https://img.shields.io/badge/gesture__os__control-rajdeepkumar200-3B82F6?style=for-the-badge&labelColor=001530&logo=github&logoColor=3B82F6" width="260"/>
+<br/><br/>
 <a href="https://github.com/rajdeepkumar200/gesture_os_control">
-<img src="https://img.shields.io/badge/Gesture_OS_Control-INTERMEDIATE-3B82F6?style=for-the-badge&labelColor=1E3A8A" width="300"/>
+<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-3B82F6?style=flat-square"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
@@ -70,33 +82,38 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 </td></tr>
 </table>
 </td>
+<td align="center" width="33%">
+<table cellpadding="16" width="100%">
+<tr><td align="center" bgcolor="#001410">
+<img src="https://img.shields.io/badge/INTERMEDIATE-14B8A6?style=flat-square&labelColor=0F766E"/>
+<br/>
+<img src="https://img.shields.io/badge/Movie--recommendation--system-rajdeepkumar200-14B8A6?style=for-the-badge&labelColor=002018&logo=github&logoColor=14B8A6" width="260"/>
+<br/><br/>
+<a href="https://github.com/rajdeepkumar200/Movie-recommendation-system">
+<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-14B8A6?style=flat-square"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<br/><br/>
+<sub><b>Personalized movie recommendations using collaborative filtering & ML</b></sub>
+</td></tr>
+</table>
+</td>
 </tr>
 </table>
 
 <br/>
 
 <!-- ██ BEGINNER ██ -->
-<table cellpadding="0" cellspacing="10" width="100%">
-<tr>
-<td align="center">
-<table cellpadding="16" width="310">
-<tr><td align="center" bgcolor="#001410">
-<a href="https://github.com/rajdeepkumar200/Movie-recommendation-system">
-<img src="https://img.shields.io/badge/Movie_Recommendation-BEGINNER+-14B8A6?style=for-the-badge&labelColor=0F766E" width="260"/>
-</a>
-<br/><br/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<br/><br/>
-<sub><b>Personalized movie recommendations using ML</b></sub>
-</td></tr>
-</table>
-</td>
-<td align="center">
-<table cellpadding="16" width="310">
+<table cellpadding="20" width="380">
 <tr><td align="center" bgcolor="#001408">
+<img src="https://img.shields.io/badge/BEGINNER-22C55E?style=flat-square&labelColor=14532D"/>
+<br/>
+<img src="https://img.shields.io/badge/Daily--Habit--Tracker-rajdeepkumar200-22C55E?style=for-the-badge&labelColor=002010&logo=github&logoColor=22C55E" width="320"/>
+<br/><br/>
 <a href="https://github.com/rajdeepkumar200/Daily-Habit-Tracker">
-<img src="https://img.shields.io/badge/Daily_Habit_Tracker-BEGINNER-22C55E?style=for-the-badge&labelColor=14532D" width="260"/>
+<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-22C55E?style=flat-square"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -104,9 +121,6 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 <br/><br/>
 <sub><b>Simple habit tracking web application</b></sub>
 </td></tr>
-</table>
-</td>
-</tr>
 </table>
 
 </div>
