@@ -19,8 +19,8 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 
 <!-- ━━━ ADVANCED ━━━ -->
 <div align="center">
-  <a href="https://github.com/rajdeepkumar200/medical-llm-qa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=medical-llm-qa&bg_color=1a0000&title_color=ff6b6b&border_color=ff4444&icon_color=ff4444&text_color=ffaaaa&description_lines_count=2" width="500"/>
+  <a href="https://github.com/rajdeepkumar200/medical-llm-clinical-qa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=medical-llm-clinical-qa&bg_color=1a0000&title_color=ff6b6b&border_color=ff4444&icon_color=ff4444&text_color=ffaaaa" width="500"/>
   </a>
 </div>
 
@@ -28,12 +28,12 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 
 <!-- ━━━ INTERMEDIATE ━━━ -->
 <div align="center">
-  <a href="https://github.com/rajdeepkumar200/text-to-image-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=text-to-image-generator&bg_color=12002a&title_color=d8b4fe&border_color=a855f7&icon_color=c084fc&text_color=e9d5ff" width="310"/>
+  <a href="https://github.com/rajdeepkumar200/Text-to-Image-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=Text-to-Image-generator&bg_color=12002a&title_color=d8b4fe&border_color=a855f7&icon_color=c084fc&text_color=e9d5ff" width="310"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rajdeepkumar200/gesture-os-control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=gesture-os-control&bg_color=001020&title_color=93c5fd&border_color=3b82f6&icon_color=60a5fa&text_color=bfdbfe" width="310"/>
+  <a href="https://github.com/rajdeepkumar200/gesture_os_control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=gesture_os_control&bg_color=001020&title_color=93c5fd&border_color=3b82f6&icon_color=60a5fa&text_color=bfdbfe" width="310"/>
   </a>
 </div>
 
@@ -41,11 +41,11 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 
 <!-- ━━━ BEGINNER ━━━ -->
 <div align="center">
-  <a href="https://github.com/rajdeepkumar200/movie-recommendation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=movie-recommendation-system&bg_color=001412&title_color=5eead4&border_color=14b8a6&icon_color=2dd4bf&text_color=99f6e4" width="270"/>
+  <a href="https://github.com/rajdeepkumar200/Movie-recommendation-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=Movie-recommendation-system&bg_color=001412&title_color=5eead4&border_color=14b8a6&icon_color=2dd4bf&text_color=99f6e4" width="270"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rajdeepkumar200/daily-habit-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=daily-habit-tracker&bg_color=001408&title_color=86efac&border_color=22c55e&icon_color=4ade80&text_color=bbf7d0" width="270"/>
+  <a href="https://github.com/rajdeepkumar200/Daily-Habit-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=Daily-Habit-Tracker&bg_color=001408&title_color=86efac&border_color=22c55e&icon_color=4ade80&text_color=bbf7d0" width="270"/>
   </a>
 </div>
