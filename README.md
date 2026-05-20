@@ -15,74 +15,37 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<br/>
 
-<!-- ══ ADVANCED ══ -->
-<tr>
-  <td colspan="2" align="center">
-    <a href="https://github.com/rajdeepkumar200/medical-llm-qa">
-      <img src="https://img.shields.io/badge/🧠_Medical_LLM_QA-Advanced_%7C_LLM_%2B_NLP_%2B_Healthcare_AI-FF4444?style=for-the-badge&labelColor=7F0000" width="540" alt="Medical LLM QA"/>
-    </a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-    <br/>
-    <sub><b>Fine-tuned LLM for medical question answering & diagnosis support</b></sub>
-    <br/><br/>
-  </td>
-</tr>
+<!-- ━━━ ADVANCED ━━━ -->
+<div align="center">
+  <a href="https://github.com/rajdeepkumar200/medical-llm-qa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=medical-llm-qa&bg_color=1a0000&title_color=ff6b6b&border_color=ff4444&icon_color=ff4444&text_color=ffaaaa&description_lines_count=2" width="500"/>
+  </a>
+</div>
 
-<!-- ══ INTERMEDIATE ══ -->
-<tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/rajdeepkumar200/text-to-image-generator">
-      <img src="https://img.shields.io/badge/🎨_Text_to_Image_Generator-Generative_AI_%7C_Diffusion_Models-A855F7?style=for-the-badge&labelColor=4A1B8C" width="310" alt="Text to Image Generator"/>
-    </a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=flat-square"/>
-    <br/>
-    <sub><b>AI image synthesis from text prompts using diffusion</b></sub>
-    <br/><br/>
-  </td>
-  <td width="50%" align="center">
-    <a href="https://github.com/rajdeepkumar200/gesture-os-control">
-      <img src="https://img.shields.io/badge/🖐_Gesture_OS_Control-Computer_Vision_%7C_MediaPipe-3B82F6?style=for-the-badge&labelColor=1E3A8A" width="310" alt="Gesture OS Control"/>
-    </a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square"/>
-    <br/>
-    <sub><b>Control your OS with real-time hand gestures</b></sub>
-    <br/><br/>
-  </td>
-</tr>
+<br/>
 
-<!-- ══ BEGINNER ══ -->
-<tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/rajdeepkumar200/movie-recommendation-system">
-      <img src="https://img.shields.io/badge/🎬_Movie_Recommendation-ML_%7C_Collaborative_Filtering-14B8A6?style=for-the-badge&labelColor=0F766E" width="270" alt="Movie Recommendation"/>
-    </a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    <br/>
-    <sub><b>Personalized movie recommendations using ML</b></sub>
-    <br/>
-  </td>
-  <td width="50%" align="center">
-    <a href="https://github.com/rajdeepkumar200/daily-habit-tracker">
-      <img src="https://img.shields.io/badge/✅_Daily_Habit_Tracker-Beginner_%7C_Web_App-22C55E?style=for-the-badge&labelColor=14532D" width="270" alt="Daily Habit Tracker"/>
-    </a>
-    <br/><br/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    <br/>
-    <sub><b>Simple habit tracking web application</b></sub>
-    <br/>
-  </td>
-</tr>
+<!-- ━━━ INTERMEDIATE ━━━ -->
+<div align="center">
+  <a href="https://github.com/rajdeepkumar200/text-to-image-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=text-to-image-generator&bg_color=12002a&title_color=d8b4fe&border_color=a855f7&icon_color=c084fc&text_color=e9d5ff" width="310"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rajdeepkumar200/gesture-os-control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=gesture-os-control&bg_color=001020&title_color=93c5fd&border_color=3b82f6&icon_color=60a5fa&text_color=bfdbfe" width="310"/>
+  </a>
+</div>
 
-</table>
+<br/>
+
+<!-- ━━━ BEGINNER ━━━ -->
+<div align="center">
+  <a href="https://github.com/rajdeepkumar200/movie-recommendation-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=movie-recommendation-system&bg_color=001412&title_color=5eead4&border_color=14b8a6&icon_color=2dd4bf&text_color=99f6e4" width="270"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rajdeepkumar200/daily-habit-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajdeepkumar200&repo=daily-habit-tracker&bg_color=001408&title_color=86efac&border_color=22c55e&icon_color=4ade80&text_color=bbf7d0" width="270"/>
+  </a>
+</div>
