@@ -1,3 +1,6 @@
+# Hi, I'm Rajdeep Kumar Singh 👋
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Rajdeep%20Kumar%20Singh-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://rajdeepsinghportfolio.vercel.app/)
 # 💫 About Me:
 I am currently working on Agentic AI projects.<br>I am currently learning architecture, orchestration of Ai models<br>
 
