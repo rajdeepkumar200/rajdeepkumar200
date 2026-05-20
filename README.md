@@ -23,17 +23,17 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 <table cellpadding="20" width="540">
 <tr><td align="center" bgcolor="#1a0005">
 <img src="https://img.shields.io/badge/ADVANCED-FF4444?style=flat-square&labelColor=7F0000"/>
-<br/>
-<img src="https://img.shields.io/badge/medical--llm--clinical--qa-rajdeepkumar200-FF4444?style=for-the-badge&labelColor=2a0008&logo=github&logoColor=FF4444" width="460"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/medical--llm--clinical--qa-FF4444?style=for-the-badge&labelColor=2a0008&logo=github&logoColor=FF4444" width="420"/>
 <br/><br/>
 <a href="https://github.com/rajdeepkumar200/medical-llm-clinical-qa">
-<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-FF4444?style=flat-square"/>
+<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-FF4444?style=flat-square&labelColor=2a0008"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLM_%7C_NLP_%7C_Healthcare_AI-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_%7C_NLP_%7C_Healthcare-FF6B6B?style=flat-square"/>
 <br/><br/>
 <sub><b>Fine-tuned LLM for medical question answering & clinical diagnosis support</b></sub>
 </td></tr>
@@ -41,62 +41,60 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 
 <br/>
 
-<!-- ██ INTERMEDIATE (3 cards) ██ -->
-<table cellpadding="0" cellspacing="8" width="100%">
+<!-- ██ INTERMEDIATE x3 ██ -->
+<table cellpadding="0" cellspacing="6" width="540">
 <tr>
 <td align="center" width="33%">
-<table cellpadding="16" width="100%">
+<table cellpadding="12" width="100%">
 <tr><td align="center" bgcolor="#0d0020">
 <img src="https://img.shields.io/badge/INTERMEDIATE+-A855F7?style=flat-square&labelColor=4A1B8C"/>
-<br/>
-<img src="https://img.shields.io/badge/Text--to--Image--generator-rajdeepkumar200-A855F7?style=for-the-badge&labelColor=1a0035&logo=github&logoColor=A855F7" width="260"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Text--to--Image--generator-A855F7?style=for-the-badge&labelColor=1a0035&logo=github&logoColor=A855F7" width="170"/>
 <br/><br/>
 <a href="https://github.com/rajdeepkumar200/Text-to-Image-generator">
-<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/View_Repo_%E2%86%92-A855F7?style=flat-square&labelColor=1a0035"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative_AI-A855F7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Diffusion-FF6B6B?style=flat-square"/>
 <br/><br/>
-<sub><b>AI image synthesis from text prompts using diffusion models</b></sub>
+<sub><b>AI image synthesis from text prompts</b></sub>
 </td></tr>
 </table>
 </td>
 <td align="center" width="33%">
-<table cellpadding="16" width="100%">
+<table cellpadding="12" width="100%">
 <tr><td align="center" bgcolor="#000d20">
 <img src="https://img.shields.io/badge/INTERMEDIATE-3B82F6?style=flat-square&labelColor=1E3A8A"/>
-<br/>
-<img src="https://img.shields.io/badge/gesture__os__control-rajdeepkumar200-3B82F6?style=for-the-badge&labelColor=001530&logo=github&logoColor=3B82F6" width="260"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/gesture__os__control-3B82F6?style=for-the-badge&labelColor=001530&logo=github&logoColor=3B82F6" width="170"/>
 <br/><br/>
 <a href="https://github.com/rajdeepkumar200/gesture_os_control">
-<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/View_Repo_%E2%86%92-3B82F6?style=flat-square&labelColor=001530"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer_Vision-3B82F6?style=flat-square"/>
 <br/><br/>
-<sub><b>Control your OS with real-time hand gestures via webcam</b></sub>
+<sub><b>Control OS with hand gestures</b></sub>
 </td></tr>
 </table>
 </td>
 <td align="center" width="33%">
-<table cellpadding="16" width="100%">
+<table cellpadding="12" width="100%">
 <tr><td align="center" bgcolor="#001410">
 <img src="https://img.shields.io/badge/INTERMEDIATE-14B8A6?style=flat-square&labelColor=0F766E"/>
-<br/>
-<img src="https://img.shields.io/badge/Movie--recommendation--system-rajdeepkumar200-14B8A6?style=for-the-badge&labelColor=002018&logo=github&logoColor=14B8A6" width="260"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Movie--recommendation--system-14B8A6?style=for-the-badge&labelColor=002018&logo=github&logoColor=14B8A6" width="170"/>
 <br/><br/>
 <a href="https://github.com/rajdeepkumar200/Movie-recommendation-system">
-<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/View_Repo_%E2%86%92-14B8A6?style=flat-square&labelColor=002018"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <br/><br/>
-<sub><b>Personalized movie recommendations using collaborative filtering & ML</b></sub>
+<sub><b>Personalized movie recommendations</b></sub>
 </td></tr>
 </table>
 </td>
@@ -106,14 +104,14 @@ I am currently working on Agentic AI projects.<br>I am currently learning archit
 <br/>
 
 <!-- ██ BEGINNER ██ -->
-<table cellpadding="20" width="380">
+<table cellpadding="16" width="360">
 <tr><td align="center" bgcolor="#001408">
 <img src="https://img.shields.io/badge/BEGINNER-22C55E?style=flat-square&labelColor=14532D"/>
-<br/>
-<img src="https://img.shields.io/badge/Daily--Habit--Tracker-rajdeepkumar200-22C55E?style=for-the-badge&labelColor=002010&logo=github&logoColor=22C55E" width="320"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Daily--Habit--Tracker-22C55E?style=for-the-badge&labelColor=002010&logo=github&logoColor=22C55E" width="280"/>
 <br/><br/>
 <a href="https://github.com/rajdeepkumar200/Daily-Habit-Tracker">
-<img src="https://img.shields.io/badge/View_Repository_%E2%86%92-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/View_Repo_%E2%86%92-22C55E?style=flat-square&labelColor=002010"/>
 </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
